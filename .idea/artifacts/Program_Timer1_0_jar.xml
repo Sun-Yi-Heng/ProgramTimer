@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Program-Timer1.0:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="Program-Timer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Program-Timer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar/net.mindview.util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar/mysql-connector-java-5.1.39-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
